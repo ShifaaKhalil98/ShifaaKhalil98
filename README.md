@@ -1,4 +1,4 @@
-<div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpgvzjs5m21xPdtzlqs88JfHYfmD4nvLPEA&usqp=CAU" style="width:80%;"/></div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpgvzjs5m21xPdtzlqs88JfHYfmD4nvLPEA&usqp=CAU" style="width:80%; display:block; margin-left:auto; margin-right:auto;"/>
 <h1 align="center">Hi 👋, I'm Shifaa Khalil</h1>
 <h3 align="center">Full-stack learner</h3>
 
