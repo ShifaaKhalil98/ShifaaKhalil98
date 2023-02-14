@@ -1,5 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpgvzjs5m21xPdtzlqs88JfHYfmD4nvLPEA&usqp=CAU" style="width:100%;">
-<h1 align="center">Hi 👋, I'm Shifaa Khalil</h1>
+<h1 align="center">I'm Shifaa Khalil</h1>
 <h3 align="center">Full-stack learner</h3>
 
 
